@@ -129,15 +129,7 @@ Deployment and optimization
 * Multi-camera monitoring
 * Cloud deployment
 * Mobile alert notifications
-* Safety score dashboards
-* Predictive safety analytics
-
----
-
-## Contributors
-
-* Tuba Attar
-* Project Team Members
+* shreyas 
 
 ---
 
